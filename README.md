@@ -26,7 +26,6 @@ This project provides an AI-powered strategy coach for the game Honor of Kings. 
 
 ```bash
 git clone <your-repository-url>
-cd tast_project
 ```
 
 ### 2. Create a Virtual Environment
