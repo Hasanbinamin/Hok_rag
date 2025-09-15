@@ -25,7 +25,7 @@ This project provides an AI-powered strategy coach for the game Honor of Kings. 
 ### 1. Clone the Repository (if not already done)
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/Hasanbinamin/Hok_rag.git
 ```
 
 ### 2. Create a Virtual Environment
