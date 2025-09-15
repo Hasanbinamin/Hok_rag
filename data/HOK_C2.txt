@@ -1,0 +1,192 @@
+2.1 – The Purpose of Tanks in Honor of Kings
+
+Tanks are the frontline protectors and engage specialists of the team. Their primary role is to soak up damage, initiate teamfights, and protect their carries (especially the Marksman and Mage). Tanks are not damage-focused, but their utility through crowd control (CC), zoning, and peeling can decide the outcome of a match.
+
+Key responsibilities of a Tank:
+
+Engage – Start fights at the right moment to catch enemies off guard.
+
+Peel – Protect allies from assassins and divers.
+
+Zone control – Deny enemy access to objectives.
+
+Vision provider – Scout bushes and secure safe rotations.
+
+Absorb damage – Be the shield for your team, allowing carries to deal damage.
+
+2.2 – Tank Heroes in Global Server Meta (2025)
+Hero	Strengths	Weaknesses	Meta Status
+Zhang Fei	AoE knockback, huge shield ultimate, anti-dive	Weak early damage, ult timing crucial	Top-tier
+Donghuang Taiyi	Unstoppable suppression ultimate, great peel	Squishy early game, mana reliant	Top-tier
+Luban No. 7 (Tank build)	Flexible bruiser tank build, decent sustain	Weaker CC, scaling dependent	Niche pick
+Luban Master	Long-range CC chains, versatile initiation	Can be punished when abilities on cooldown	Mid-tier
+Luban Qi	Strong teamfight control, mobility disruption	Requires coordination	Mid-tier
+Liu Shan	Mobile frontline, high CC, excellent tower dives	Less durable vs burst	Situational
+Cai Yan (Tank build)	Good peel and speed buffs, flexible utility	Not a pure tank, low engage	Support-tank hybrid
+
+(The exact roster varies by patch, but Zhang Fei and Donghuang Taiyi dominate the tank meta globally.)
+
+2.3 – Hero-Specific Counters, Tips & Tricks, Practice, and Rotations
+🔹 Zhang Fei
+
+Counters:
+
+Heroes with anti-shield mechanics (e.g., certain burst mages).
+
+Hard CC before his ultimate (to prevent transformation).
+
+Tips & Tricks:
+
+Save ultimate for critical fights; don’t waste it in skirmishes unless necessary.
+
+Pre-cast transformation when anticipating dive; it grants a huge teamwide shield.
+
+Knockback can disengage enemy Slayer/Tyrant attempts.
+
+Practice Routine:
+
+Beginner: Practice landing his knockback on multiple enemies.
+
+Intermediate: Learn timing of transformation to maximize team survival.
+
+Pro-level: Master positioning to engage or disengage at the perfect moment.
+
+Rotation Strategy:
+
+Early: Stick close to Marksman for protection.
+
+Mid-game: Rotate with Jungler to secure Tyrant.
+
+Late: Shadow your carries and engage in Slayer fights.
+
+🔹 Donghuang Taiyi
+
+Counters:
+
+Burst heroes who can delete him before ult (Nakoruru, Han Xin).
+
+Heroes with cleanse/anti-CC (e.g., Purify spell users).
+
+Tips & Tricks:
+
+Use ultimate suppression on priority targets (enemy Marksman/Mage).
+
+Always manage mana carefully – he runs out fast.
+
+His passive grants true damage reflection → abuse in trades.
+
+Practice Routine:
+
+Beginner: Practice landing suppression on squishy carries.
+
+Intermediate: Learn to use ult as a peel tool against assassins.
+
+Pro-level: Master baiting enemies into overcommitting before suppression.
+
+Rotation Strategy:
+
+Early: Protect duo lane and scout jungle entries.
+
+Mid: Roam with Jungler to invade enemy jungle.
+
+Late: Be the fight initiator—flash+ultimate can decide games.
+
+🔹 Liu Shan
+
+Counters:
+
+High-burst mages who can burn him before his CC chain.
+
+Peel-heavy supports that deny his dives.
+
+Tips & Tricks:
+
+Use his grapple to pull priority targets into your team.
+
+Build hybrid tank items to balance durability and utility.
+
+Great at tower dives with his ability to lock down enemies.
+
+Practice Routine:
+
+Beginner: Learn timing of grapple ability.
+
+Intermediate: Combine CC chain with ally follow-up.
+
+Pro-level: Initiate deep dives while tracking enemy cooldowns.
+
+Rotation Strategy:
+
+Early: Duel and secure lane priority.
+
+Mid: Initiate rotations toward Mid to pick off enemies.
+
+Late: Pair with flankers (Assassin/Warrior) to lock targets.
+
+🔹 Other Tanks (Quick Notes)
+
+Luban Master – Long-range chains can engage from a distance; weak if whiffed.
+
+Cai Yan (Tank/Support hybrid) – Better as an enabler; peel-focused rotation with Marksman.
+
+Luban No. 7 (Tank build) – Situational bruiser tank when team needs frontline + damage.
+
+2.4 – Universal Tank Tips
+
+Don’t engage alone: Always ensure your carries can follow up.
+
+Facecheck smartly: Scout bushes, but don’t suicide without backup.
+
+Track enemy spells: Wait for Purify/cleanse to be used before committing ultimates.
+
+Itemization: Adapt—if enemies have burst mages, build Magic Resist; vs Marksmen, prioritize Armor.
+
+Timing: A tank’s mistake can cost the fight; patience wins.
+
+2.5 – Tank Rotation & Macro Guide
+
+Early Game
+
+Stay near Marksman to secure farm.
+
+Help Jungler secure buffs safely.
+
+Contest first Tyrant with vision control.
+
+Mid Game
+
+Roam aggressively with Jungler.
+
+Provide vision around mid bushes.
+
+Initiate when your Mage is in position to follow up.
+
+Late Game
+
+Be the front shield in 5v5s.
+
+Protect carries against assassins.
+
+Control space around Dark Slayer.
+
+2.6 – Tank Practice Framework
+
+Beginner Training
+
+Learn basic combos and CC chains.
+
+Practice warding and bush scouting.
+
+Intermediate Training
+
+Engage timing with team follow-up.
+
+Split decision-making (engage vs peel).
+
+Pro-Level Training
+
+Tracking summoner spells (Purify/Flash).
+
+Zoning enemies during Slayer/Tyrant fights.
+
+Mastering fog-of-war engages (surprise initiations).

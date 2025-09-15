@@ -1,0 +1,250 @@
+7.1 – The Purpose of Supports in Honor of Kings
+
+Supports are the backbone of team coordination in HOK. While they often don’t top the kill charts, they dictate rotations, protect carries, and initiate fights. A strong support makes the team feel safe to play aggressively; a weak support leaves the backline vulnerable and objectives uncontested.
+
+Core responsibilities:
+
+Protect Marksman & Mage – Peel against assassins and divers.
+
+Engage & Disengage – Start fights on your terms, or reset bad fights.
+
+Vision & Map Control – Secure bushes, protect jungle entrances.
+
+Roaming & Rotations – Move with Jungler to pressure lanes and secure objectives.
+
+Utility & Buffs – Healing, shields, speed boosts, and CC are all game-deciding.
+
+7.2 – Supports in the Global Server Meta (2025)
+Hero	Strengths	Weaknesses	Meta Status
+Donghuang Taiyi	Chain ultimate to lock carries, tanky	Needs precise timing, punishable if missed	Top-tier
+Sun Bin	Speed buffs, healing, teamwide ult utility	Low damage, ult can be dodged	Top-tier
+Zhang Fei	Strong engage + shield, ult AoE fear	Weak if ult is wasted	Top-tier
+Cai Yan	Great healing + poke utility	Squishy compared to tank supports	High-tier
+Liu Shan	Aggressive engage support	Falls off if team lacks follow-up	High-tier
+Other Supports	Yaria, Taiyi Zhenren, etc. provide situational utility	–	Niche
+7.3 – Hero-Specific Counters, Tips & Tricks, Practice, and Rotations
+🔹 Donghuang Taiyi (CC Lock Specialist)
+
+Counters:
+
+Long-range poke mages who keep him at bay.
+
+Purify relic negates his ultimate.
+
+Tips & Tricks:
+
+Use ultimate as reaction punish (catch diving assassins).
+
+Best when played front-to-back—protecting backline first.
+
+Perfect for peeling vs Han Xin, Nakoruru, A Ke.
+
+Practice Routine:
+
+Beginner: Learn ultimate timing.
+
+Intermediate: Sync with teammate burst.
+
+Pro-level: Catch carries mid-dash to shut down dives.
+
+Rotation Strategy:
+
+Early: Protect Marksman in duo lane.
+
+Mid: Roam with Jungler to contest vision.
+
+Late: Stay glued to backline—ult on divers.
+
+🔹 Sun Bin (Utility Enabler)
+
+Counters:
+
+Hard engage tanks who ignore his speed buffs.
+
+Burst assassins that one-shot before heals land.
+
+Tips & Tricks:
+
+Speed buff is the best disengage tool in the game.
+
+Use ultimate early in fights to force enemies back.
+
+Perfect synergy with poke comps.
+
+Practice Routine:
+
+Beginner: Time heal for ally survival.
+
+Intermediate: Use speed buff to rotate faster.
+
+Pro-level: Chain ult + poke for objective control.
+
+Rotation Strategy:
+
+Early: Roam with Jungler, speed buff rotations.
+
+Mid: Stay near Mage for poke control.
+
+Late: Group utility bot—protect carries at all costs.
+
+🔹 Zhang Fei (Fear Initiator)
+
+Counters:
+
+Poke comps that keep him away from fights.
+
+Purify relic reduces impact of ult.
+
+Tips & Tricks:
+
+Transform ultimate = instant teamfight swing.
+
+Shield allies before engages.
+
+Best paired with aggressive Warriors.
+
+Practice Routine:
+
+Beginner: Learn ult range + timing.
+
+Intermediate: Time transformation with enemy dives.
+
+Pro-level: Flank with ult for maximum AoE fear.
+
+Rotation Strategy:
+
+Early: Babysit Marksman → roam after lv4.
+
+Mid: Initiate fights around Tyrant.
+
+Late: Engage + peel role, shield Marksman first.
+
+🔹 Cai Yan (Healing Support)
+
+Counters:
+
+Anti-heal items shut down sustain.
+
+Dive comps that burst before healing applies.
+
+Tips & Tricks:
+
+Position carefully—stay out of enemy dive range.
+
+Provides both sustain and poke.
+
+Strong when team groups around objectives.
+
+Practice Routine:
+
+Beginner: Land skillshot poke consistently.
+
+Intermediate: Manage cooldowns for max healing.
+
+Pro-level: Position perfectly while healing in teamfights.
+
+Rotation Strategy:
+
+Early: Stay with Marksman.
+
+Mid: Rotate with team for objectives.
+
+Late: Constantly heal → zone with poke.
+
+🔹 Liu Shan (Aggressive Engage Support)
+
+Counters:
+
+Peel-heavy comps that punish over-engages.
+
+Kiting Marksmen who outlast him.
+
+Tips & Tricks:
+
+Great vs immobile squishies.
+
+Needs aggressive comps to shine.
+
+Weak if team can’t follow his dives.
+
+Practice Routine:
+
+Beginner: Master engage combos.
+
+Intermediate: Learn dive timings with Jungler.
+
+Pro-level: Cancel enemy dashes with CC chain.
+
+Rotation Strategy:
+
+Early: Roam after lv2, dive squishy lanes.
+
+Mid: Hard engage around objectives.
+
+Late: Initiate → soak damage → peel if needed.
+
+7.4 – Universal Support Tips
+
+Stay with Your Carry: Supports without their Marksman leave lanes vulnerable.
+
+Bush Control: Always face-check bushes first—protect squishies.
+
+Item Flexibility: Choose between tank aura items or healing/utility depending on team comp.
+
+Ping & Lead Rotations: Supports often decide when to rotate → lead the team.
+
+Patience in Ultimates: Don’t waste engage or peel tools early—time them with enemy dives.
+
+7.5 – Support Rotation & Macro Guide
+
+Early Game
+
+Stick with Marksman for protection.
+
+Ward river bushes, track enemy Jungler.
+
+Roam only if Marksman is safe.
+
+Mid Game
+
+Lead team to Tyrant/Slayer fights.
+
+Rotate between lanes for vision and support.
+
+Stay central on the map to react faster.
+
+Late Game
+
+Never leave your carries alone.
+
+Be the frontline shield for objectives.
+
+Time CC to punish divers instantly.
+
+7.6 – Support Practice Framework
+
+Beginner Training
+
+Learn map awareness + warding.
+
+Stay with Marksman consistently.
+
+Intermediate Training
+
+Roam timing—when to leave lane without risking carry.
+
+Peel efficiency against assassins.
+
+Pro-Level Training
+
+Perfect ult timings (initiation vs peel).
+
+Lead macro decisions (rotations/objectives).
+
+Dictate tempo by syncing with Jungler.
+
+7.7 – Conclusion of Support Role
+
+Supports are the unsung heroes of HOK. They might not deal the most damage, but they decide how fights start, how carries survive, and how objectives are secured. Whether you play a CC tank (Donghuang, Zhang Fei), a utility enabler (Sun Bin, Cai Yan), or an aggressive initiator (Liu Shan), the Support role requires constant awareness, unselfish play, and leadership.
+
+A team with a great Support feels coordinated and safe; a team without one crumbles under pressure. Mastering Support makes you the true conductor of victory in Honor of Kings.

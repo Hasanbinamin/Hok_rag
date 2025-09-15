@@ -1,0 +1,242 @@
+4.1 – The Purpose of Assassins in Honor of Kings
+
+Assassins are the burst damage specialists of HOK. They thrive on fast rotations, jungle control, and surgical eliminations of squishy backline heroes (Marksmen and Mages). The best assassins don’t just farm kills—they control map tempo, pressure lanes, and secure objectives.
+
+Core responsibilities:
+
+Jungle Control – Efficiently clear camps, secure buffs, and deny enemy jungle.
+
+Tempo Creation – Rotate quickly to punish overextended lanes.
+
+Backline Threat – Burst down carries before teamfights.
+
+Objective Securing – Help secure Tyrant, Dark Slayer, and vision.
+
+Snowball Potential – Convert early kills into teamwide advantages.
+
+4.2 – Assassins in the Global Server Meta (2025)
+Hero	Strengths	Weaknesses	Meta Status
+Han Xin	Extreme mobility, strong jungle invades	Squishy if caught, high skill ceiling	Top-tier
+Nakoruru	Burst damage, one-shot potential	Falls off late if behind, predictable	Top-tier
+Lan	Stealth mobility, strong ganks	Weak wave clear, reliant on snowballing	High-tier
+A Ke (Assassin Ke)	Backline execution, invisibility burst	Needs farm, countered by vision & peel	High-tier
+Pei Qinhu	Hybrid mobility + ranged poke	Requires mechanical mastery	High-tier
+Other Assassins	Some situational picks like Luna, Jing are viable in certain metas	–	Niche
+4.3 – Hero-Specific Counters, Tips & Tricks, Practice, and Rotations
+🔹 Han Xin (Mobility King)
+
+Counters:
+
+Tanks with strong CC (Donghuang, Zhang Fei).
+
+Burst mages who punish him when diving (Zhuge Liang).
+
+Tips & Tricks:
+
+Abuse his insane wall-hopping mobility to invade and escape.
+
+Don’t force 5v5 engages—pick off isolated targets.
+
+Use his skills to kite junglers in duels.
+
+Practice Routine:
+
+Beginner: Practice jungle clear paths + wall hops.
+
+Intermediate: Time ganks with lane priority.
+
+Pro-level: Master double-hop mechanics and high-tempo rotations.
+
+Rotation Strategy:
+
+Early: Invade enemy jungle aggressively.
+
+Mid: Split push side lanes + pressure Tyrant fights.
+
+Late: Flank into backline; never enter fights head-on.
+
+🔹 Nakoruru (Burst Predator)
+
+Counters:
+
+High armor tanks that absorb her combo.
+
+Peel-heavy supports (Sun Bin, Donghuang).
+
+Tips & Tricks:
+
+Always target squishy carries, not tanks.
+
+Save bird ability to either engage or escape.
+
+Time your ultimate with enemy cooldowns for guaranteed kills.
+
+Practice Routine:
+
+Beginner: Learn full combo execution.
+
+Intermediate: Track enemy Flash/Purify timings.
+
+Pro-level: Burst + retreat without trading your life.
+
+Rotation Strategy:
+
+Early: Gank as soon as you hit level 4.
+
+Mid: Constantly pressure duo lane (Marksman is priority).
+
+Late: Lurk in bushes, pick carries before Slayer fights.
+
+🔹 Lan (Stealth Diver)
+
+Counters:
+
+True vision supports (Donghuang, Cai Yan).
+
+AoE CC that reveals stealth.
+
+Tips & Tricks:
+
+Approach fights from fog of war to surprise carries.
+
+Use stealth for rotations and gank setups.
+
+Perfect at punishing overextended Marksmen.
+
+Practice Routine:
+
+Beginner: Practice stealth → engage combo.
+
+Intermediate: Rotate between lanes efficiently.
+
+Pro-level: Time stealth ganks with objectives for maximum impact.
+
+Rotation Strategy:
+
+Early: Focus on side lane ganks.
+
+Mid: Pressure Tyrant lane consistently.
+
+Late: Split push or flank—never initiate from the front.
+
+🔹 A Ke (Execution Assassin)
+
+Counters:
+
+Vision control—wards and reveals shut her down.
+
+Tanky comps with peel.
+
+Tips & Tricks:
+
+Burst down carries with invisibility engages.
+
+Only commit after frontline engages.
+
+Build lethality and snowball hard.
+
+Practice Routine:
+
+Beginner: Master invisibility timings.
+
+Intermediate: Practice combos on squishies.
+
+Pro-level: Execute carries in chaotic fights without being noticed.
+
+Rotation Strategy:
+
+Early: Farm jungle efficiently.
+
+Mid: Pick off overextended squishies.
+
+Late: Assassin execution role—wait for openings, then strike.
+
+🔹 Pei Qinhu (Hybrid Assassin)
+
+Counters:
+
+High burst mages who punish him during dashes.
+
+Peel supports.
+
+Tips & Tricks:
+
+His ranged poke gives him versatility.
+
+Swap between tiger and human form effectively.
+
+One of the best invaders—use mobility aggressively.
+
+Practice Routine:
+
+Beginner: Learn both forms’ abilities.
+
+Intermediate: Use ranged poke before diving.
+
+Pro-level: Master form-switch combos for maximum DPS.
+
+Rotation Strategy:
+
+Early: Farm jungle quickly, invade aggressively.
+
+Mid: Roam constantly, pressure side lanes.
+
+Late: Play hybrid role—assassin + bruiser damage.
+
+4.4 – Universal Assassin Tips
+
+Never overfarm: Assassins must create tempo; don’t just sit in jungle.
+
+Target priority: Always kill Marksman/Mage first.
+
+Bush control: Bushes are your best ally—use them for surprise ganks.
+
+Itemization: Build anti-tank if frontline is too strong; otherwise full burst.
+
+Patience: Don’t reveal too early in fights—wait for tank engage.
+
+4.5 – Assassin Rotation & Macro Guide
+
+Early Game
+
+Start at buff → clear fast → look for gank by level 2–3.
+
+Contest enemy jungle if you have strong lanes.
+
+Mid Game
+
+Rotate constantly—every lane must feel your presence.
+
+Secure Tyrant with your team after kills.
+
+Deny enemy jungle camps.
+
+Late Game
+
+Stay in fog of war—pressure backline without being seen.
+
+Force enemies to group → opens map for split pushing.
+
+Never start fights; assassins are executioners.
+
+4.6 – Assassin Practice Framework
+
+Beginner Training
+
+Learn jungle clear efficiency (3-minute farm routes).
+
+Basic combos for burst damage.
+
+Intermediate Training
+
+Map awareness → when to gank which lane.
+
+Timing objectives with team (Tyrant/Slayer).
+
+Pro-Level Training
+
+Invade jungle without dying.
+
+Perfect flank paths & stealth engages.
+
+Target focus & execution in chaotic fights.

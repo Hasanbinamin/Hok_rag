@@ -1,0 +1,238 @@
+5.1 – The Purpose of Mages in Honor of Kings
+
+Mages are the core damage dealers in the mid lane, shaping the tempo of the game through wave control, vision, and area damage. They excel at teamfight impact, zoning enemies, and providing either burst nukes or crowd control to enable their teammates. Unlike Assassins, who thrive in isolated kills, Mages are strongest when fighting with or near their team.
+
+Core responsibilities:
+
+Wave Control – Push mid lane fast to open rotations.
+
+Zone Control – Deny areas with AoE or CC during objectives.
+
+Burst Damage – Eliminate squishies or soften enemies before engages.
+
+Objective Support – Secure Tyrant/Dark Slayer fights with AoE pressure.
+
+Vision & Presence – Constantly rotate after clearing wave to pressure jungle and side lanes.
+
+5.2 – Mages in the Global Server Meta (2025)
+Hero	Strengths	Weaknesses	Meta Status
+Diao Chan	AoE freeze, sustain, snowball potential	Weak vs Purify & anti-heal	Top-tier
+Mozi	Long-range poke, cage ultimate (zone)	Skillshot reliant, weaker burst	Top-tier
+Zhuge Liang	Reset-based burst carry	Needs kills/resets to shine	High-tier
+Shikigami-like (Angela/others)	Heavy AoE poke, objective zoning	Squishy, immobile	Stable pick
+Zhong Kui	Tanky mage, chain hook pick potential	Skillshot reliant, misses punish heavily	Situational
+Other Mages	Luna, Wang Zhaojun, Gan Jiang Mo Ye are viable depending on comp	–	Niche meta picks
+5.3 – Hero-Specific Counters, Tips & Tricks, Practice, and Rotations
+🔹 Diao Chan (Frozen Sorceress)
+
+Counters:
+
+Heroes with Purify/cleanse abilities.
+
+Anti-heal itemization that negates her sustain.
+
+Tips & Tricks:
+
+Place AoE slow + freeze in chokepoints.
+
+Always fight in confined areas where enemies can’t escape her ult.
+
+Build sustain items to survive burst focus.
+
+Practice Routine:
+
+Beginner: Land AoE freeze consistently.
+
+Intermediate: Combo ult + AoE to control fights.
+
+Pro-level: Bait out Purify before committing ult.
+
+Rotation Strategy:
+
+Early: Push wave → help Jungler invade or secure river vision.
+
+Mid: Control Tyrant fights with AoE zone.
+
+Late: Be teamfight anchor, stand ground in objectives.
+
+🔹 Mozi (Control Mage)
+
+Counters:
+
+Mobile assassins who dodge his cage.
+
+Long-range poke mages who outrange him.
+
+Tips & Tricks:
+
+Use cage ultimate to trap carries or split fights.
+
+Poke consistently with his skill 1 + 2 combo before objectives.
+
+Great synergy with tanks who engage into cage.
+
+Practice Routine:
+
+Beginner: Learn cage positioning.
+
+Intermediate: Predict dashes for guaranteed hits.
+
+Pro-level: Use cage to zone objectives (Tyrant/Slayer).
+
+Rotation Strategy:
+
+Early: Push mid → harass enemy jungle entrances.
+
+Mid: Play vision game—set up cages around objectives.
+
+Late: Use cage to decide teamfights by isolating carry.
+
+🔹 Zhuge Liang (Reset Mage)
+
+Counters:
+
+Tank-heavy comps he can’t burst.
+
+Burst assassins who kill him before resets.
+
+Tips & Tricks:
+
+Always hunt low-HP targets to trigger resets.
+
+Stay behind frontline until reset opportunity opens.
+
+Extremely snowball dependent—farm well early.
+
+Practice Routine:
+
+Beginner: Practice ult timing for resets.
+
+Intermediate: Learn to finish off kills efficiently.
+
+Pro-level: Position perfectly to chain resets without dying.
+
+Rotation Strategy:
+
+Early: Focus on farming safely.
+
+Mid: Rotate aggressively if ahead, else farm.
+
+Late: Act as execution mage—clean fights with resets.
+
+🔹 Wang Zhaojun (Ice Control Mage)
+
+Counters:
+
+Long-range poke mages.
+
+Dive assassins who burst her before ult.
+
+Tips & Tricks:
+
+Use ult in chokepoints for maximum AoE.
+
+Pair with tank engages for instant lockdown.
+
+Strong at defending towers due to wave clear.
+
+Practice Routine:
+
+Beginner: Land skillshot freeze.
+
+Intermediate: Sync ult with team’s CC.
+
+Pro-level: Use fog of war for surprise freezes.
+
+Rotation Strategy:
+
+Early: Play safe, clear waves.
+
+Mid: Group early for Tyrant fights.
+
+Late: Teamfight control specialist.
+
+🔹 Gan Jiang Mo Ye (Double Mage Duo)
+
+Counters:
+
+Mobile assassins who dodge skillshots.
+
+High sustain heroes who outlast poke.
+
+Tips & Tricks:
+
+Use double projectile poke to chunk enemies.
+
+Great for objective zone control.
+
+Requires precise skillshot aim.
+
+Practice Routine:
+
+Beginner: Learn projectile range.
+
+Intermediate: Aim skillshots at choke points.
+
+Pro-level: Use poke before engages to force recalls.
+
+Rotation Strategy:
+
+Early: Constantly pressure enemy mid-laner.
+
+Mid: Siege towers with poke.
+
+Late: Zone enemy carries from objectives.
+
+5.4 – Universal Mage Tips
+
+Wave Clear First: Always push mid before roaming.
+
+Play Around Vision: Bushes are critical for surprise poke.
+
+Positioning is Key: Never overextend—stay behind frontline.
+
+Objective Pressure: Mages dictate Tyrant/Dark Slayer fights.
+
+Adapt Builds: Anti-tank (burst items) vs anti-squishy (penetration).
+
+5.5 – Mage Rotation & Macro Guide
+
+Early Game
+
+Clear wave → help Jungler secure river vision.
+
+Pressure both side lanes with rotations.
+
+Mid Game
+
+Push mid before Tyrant/Slayer fights.
+
+Support duo lane if Marksman is pressured.
+
+Late Game
+
+Stay with Marksman—form double backline.
+
+Use AoE skills to zone fights and protect objectives.
+
+5.6 – Mage Practice Framework
+
+Beginner Training
+
+Focus on last-hitting mid wave.
+
+Practice skillshot accuracy.
+
+Intermediate Training
+
+Learn rotation timing → after every wave.
+
+Use ultimates for zoning, not just kills.
+
+Pro-Level Training
+
+Master vision control with rotations.
+
+Predict enemy dashes and punish with CC.
+
+Carry fights by zoning enemies off objectives.

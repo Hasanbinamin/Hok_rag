@@ -1,0 +1,239 @@
+3.1 – The Purpose of Warriors in Honor of Kings
+
+Warriors are the bruisers and duelists of HOK. They balance between the durability of tanks and the damage of assassins, excelling in extended fights, split pushing, and skirmishes. A good Warrior can control the side lane, apply pressure, and either join teamfights or force enemy responses by pushing.
+
+Core responsibilities:
+
+Side Lane Control – Secure farm, deny enemy EXP, and control waves.
+
+Dueling Power – Pressure squishies or peel for backline.
+
+Split Push – Force enemies to deal with you, opening objectives for your team.
+
+Secondary Engage – Follow up the Tank’s initiation.
+
+Objective Control – Pressure Spirit Sentinel and Dark Slayer lane.
+
+3.2 – Warriors in the Global Server Meta (2025)
+Hero	Strengths	Weaknesses	Meta Status
+Arthur	Reliable CC, beginner-friendly, tanky	Predictable kit, kited by mobile carries	Stable pick
+Guan Yu	High mobility, massive AoE damage	Requires momentum (horse state)	Top-tier
+Mulan	Dual stances (burst + sustain), high skill cap	Mechanically demanding	High-skill
+Yang Jian	Burst duelist, sustain via pet	Cooldown reliant, struggles if behind	Strong pick
+Lü Bu	Lifesteal ultimate, great frontline	Weak early without ult	Stable pick
+Er Lang Shen	Anti-carry lock, chase potential	Item dependent	Situational
+Other Warriors	Some off-meta bruisers exist but less reliable globally	–	Niche
+3.3 – Hero-Specific Counters, Tips & Tricks, Practice, and Rotations
+🔹 Arthur (Beginner-Friendly Bruiser)
+
+Counters:
+
+Mages with kite potential (e.g., Diao Chan, Mozi).
+
+Marksmen with mobility (e.g., Gongsun Li).
+
+Tips & Tricks:
+
+Simple but reliable engage with his first skill → ult.
+
+Use ultimate to lock down enemy carry during key fights.
+
+Build tanky bruiser items (resist + cooldown reduction).
+
+Practice Routine:
+
+Beginner: Focus on wave clear and basic combos.
+
+Intermediate: Time ult to cancel channeling skills.
+
+Pro-level: Perfect rotations—pressure solo lane then roam mid for fights.
+
+Rotation Strategy:
+
+Early: Secure Spirit Sentinel.
+
+Mid: Rotate after pushing wave, join Jungler in invades.
+
+Late: Engage as secondary frontline after Tank.
+
+🔹 Guan Yu (Momentum Fighter)
+
+Counters:
+
+Hard CC (Zhang Fei, Donghuang Taiyi).
+
+Peel-heavy supports that deny his charge.
+
+Tips & Tricks:
+
+Stay in “horse state” (momentum) as much as possible.
+
+AoE knockbacks can decide teamfights.
+
+Split push → rotate quickly due to mobility.
+
+Practice Routine:
+
+Beginner: Practice maintaining horse form consistently.
+
+Intermediate: Knock enemies into your team during fights.
+
+Pro-level: Master flanking engages from fog of war.
+
+Rotation Strategy:
+
+Early: Shove lane to roam quickly.
+
+Mid: Flank around mid lane fights.
+
+Late: Split push Slayer lane, join fights at perfect timing.
+
+🔹 Mulan (Mechanically Complex Duelist)
+
+Counters:
+
+Burst assassins (Nakoruru, Han Xin).
+
+CC-heavy tanks who punish stance switches.
+
+Tips & Tricks:
+
+Use light stance for mobility, heavy stance for burst combos.
+
+Animation cancel her heavy stance skills for max DPS.
+
+Excellent at isolating priority targets.
+
+Practice Routine:
+
+Beginner: Learn stance swap timing.
+
+Intermediate: Practice full combos with animation cancels.
+
+Pro-level: Execute split push pressure while dodging ganks.
+
+Rotation Strategy:
+
+Early: Play safe until item power spikes.
+
+Mid: Rotate aggressively to skirmishes.
+
+Late: Dual role—teamfight carry killer or side lane split pusher.
+
+🔹 Yang Jian (Pet Warrior)
+
+Counters:
+
+Burst Mages who delete him before sustain kicks in.
+
+Long-range poke comps.
+
+Tips & Tricks:
+
+Use pet skill wisely—gap closer + sustain.
+
+Great at 1v1 duels against immobile carries.
+
+Build bruiser lifesteal items to maximize durability.
+
+Practice Routine:
+
+Beginner: Last-hit well to hit item spikes early.
+
+Intermediate: Learn when to engage with pet skill.
+
+Pro-level: Split push macro play—force multiple enemies to respond.
+
+Rotation Strategy:
+
+Early: Farm patiently, secure Spirit Sentinel.
+
+Mid: Duel enemies in side lane, join Tyrant fights.
+
+Late: Threaten backline in teamfights.
+
+🔹 Lü Bu (Lifesteal Bruiser)
+
+Counters:
+
+Anti-heal items (Tome of Reaping, Searing Longsword).
+
+Kiting Marksmen with high mobility.
+
+Tips & Tricks:
+
+Activate ultimate before heavy damage to sustain.
+
+Pair with anti-CC items to stay alive longer.
+
+Excellent frontline when Tank is down.
+
+Practice Routine:
+
+Beginner: Learn ult sustain timing.
+
+Intermediate: Juggle between DPS and frontline role.
+
+Pro-level: Perfect split push vs teamfight balance.
+
+Rotation Strategy:
+
+Early: Farm and trade in side lane.
+
+Mid: Join Tyrant fights with ult ready.
+
+Late: Act as bruiser frontline and peel carries.
+
+3.4 – Universal Warrior Tips
+
+Wave Management: Always push side lane before rotating.
+
+Split Push Threat: Force 1–2 enemies to chase you → your team secures objectives.
+
+Itemization: Balance offense and defense depending on matchup.
+
+Flanking: Enter teamfights from side angles to threaten backline.
+
+Patience: Don’t overchase kills—focus on objectives.
+
+3.5 – Warrior Rotation & Macro Guide
+
+Early Game
+
+Focus on winning lane trades and securing Spirit Sentinel.
+
+Don’t overextend without vision—jungler ganks are common.
+
+Mid Game
+
+Push side lanes, then roam to mid and help secure Tyrant.
+
+Use mobility to collapse on enemy jungler.
+
+Late Game
+
+Split push Dark Slayer lane—forces enemy defense.
+
+Join fights only after wave is set (never leave waves unpushed).
+
+3.6 – Warrior Practice Framework
+
+Beginner Training
+
+Last-hitting drills in solo lane.
+
+Learn combos of each warrior.
+
+Intermediate Training
+
+Wave management + timing rotations.
+
+Side lane → mid roam discipline.
+
+Pro-Level Training
+
+Master flanking and fog-of-war engages.
+
+Apply map pressure with perfect split pushing.
+
+Optimize builds per enemy draft.

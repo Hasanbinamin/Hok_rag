@@ -1,0 +1,89 @@
+1.1 – What is Honor of Kings?
+
+Honor of Kings (HOK) is a 5v5 multiplayer online battle arena (MOBA), similar to League of Legends or Mobile Legends, but with its own distinct mechanics and balance. The goal is simple:
+
+Destroy the enemy’s base crystal by pushing through lanes, killing towers, and controlling the map.
+
+Map Layout
+
+3 lanes: Top (Solo Lane), Mid (Mage Lane), Bottom (Duo Lane – Marksman + Support).
+
+Jungle: Contains monsters, buffs, Tyrant, Spirit Sentinel, and Dark Slayer.
+
+Objectives:
+
+Tyrant (Dragon) – grants team gold/EXP buffs.
+
+Spirit Sentinel – regen and lane push buff.
+
+Dark Slayer – huge pushing buff and teamfight advantage.
+
+1.2 – Roles in HOK
+
+Every hero belongs to one or more roles. Mastering each role’s purpose is crucial.
+
+Role	Lane / Position	Main Objective	Example Heroes
+Tank	Roam/Frontline	Absorb damage, engage fights	Zhang Fei, Donghuang Taiyi
+Warrior	Solo (Top Lane)	Duelists, bruisers, split push	Arthur, Guan Yu
+Assassin	Jungle	Burst damage, pick squishy targets	Nakoruru, Han Xin
+Mage	Mid Lane	Burst/AP damage, wave clear	Diao Chan, Zhuge Liang
+Marksman	Duo Lane (Bot)	Main DPS, tower damage	Gongsun Li, Hou Yi
+Support	Duo Lane (Bot)	Protect Marksman, vision, engage	Cai Yan, Sun Bin
+1.3 – Win Conditions
+
+Destroy towers – Each tower taken gives map control.
+
+Secure objectives – Tyrant/Slayer buffs swing fights.
+
+Snowball gold lead – Farm efficiency wins games.
+
+Teamfight victories – Secure kills → push lanes → take objectives.
+
+1.4 – Best Practices for All Players
+1. Map Awareness
+
+Always glance at minimap every 3–5 seconds.
+
+Track enemy jungler spawn patterns.
+
+Look for missing enemies → warn team.
+
+2. Wave Management
+
+Freeze wave near your tower if behind.
+
+Fast push when enemy recalls/dies.
+
+Slow push before objectives (stack waves).
+
+3. Objective Priority
+
+Towers > Tyrant > Dark Slayer > Kills.
+
+Don’t chase kills if it means losing objectives.
+
+4. Positioning
+
+Squishy roles (Mage, Marksman) stay behind tank/warrior.
+
+Tanks/Supports initiate; Assassins flank.
+
+5. Communication
+
+Use pings (attack, retreat, gather).
+
+Call out enemy positions (“Jungler top”).
+
+Rotate as 4–5 for Slayer fights.
+
+1.5 – Global Server Meta Insights (2025)
+
+Fast rotations → Junglers and Supports control tempo.
+
+Objective snowballing → Early Tyrant fights are critical.
+
+High mobility assassins (Han Xin, Nakoruru) dominate jungle.
+
+Utility supports (Sun Bin, Donghuang) are meta picks.
+
+Marksmen scaling (Hou Yi, Gongsun Li) often decide late game.

@@ -1,0 +1,240 @@
+6.1 – The Purpose of Marksmen in Honor of Kings
+
+Marksmen are the primary late-game carries of HOK. Their role revolves around sustained DPS, usually from a safe backline position, and they are often the win condition for teams if games go long. A Marksman’s greatest strengths are tower sieging, consistent damage, and scaling, but they are also the most vulnerable role—positioning and protection are everything.
+
+Core responsibilities:
+
+Farm Priority – Secure gold and items as fast as possible.
+
+Tower Siege – Safely chip down towers after wave clears.
+
+Consistent DPS – Carry fights with sustained damage, not burst.
+
+Objective Pressure – Secure Tyrant/Dark Slayer damage when safe.
+
+Survival – Stay alive at all costs—dead Marksman = no damage.
+
+6.2 – Marksmen in the Global Server Meta (2025)
+Hero	Strengths	Weaknesses	Meta Status
+Gongsun Li	High mobility, self-peel, strong late game	Mechanically demanding	Top-tier
+Hou Yi	Reliable AoE damage, teamfight ult	Immobile, vulnerable to divers	Stable pick
+Marco Polo	High mobility, DPS shred vs tanks	Mana dependent, weak early	Top-tier
+Luban No. 7	Extreme DPS, turret damage	Immobile, needs peel	Stable pick
+Sun Shangxiang	Burst crit + mobility	Squishy, falls if behind	High-tier
+Other Marksmen	Consistent picks like Di Renjie, Huang Zhong, Baili Xuance (marksman hybrid)	–	Situational
+6.3 – Hero-Specific Counters, Tips & Tricks, Practice, and Rotations
+🔹 Gongsun Li (Agile Carry)
+
+Counters:
+
+Lockdown CC (Donghuang, Zhang Fei).
+
+Burst assassins if she misplays mobility.
+
+Tips & Tricks:
+
+Use skill 2’s umbrella recall for kiting.
+
+Always reposition with skill 1 + AA cancels.
+
+Excellent duelist in late game if farmed.
+
+Practice Routine:
+
+Beginner: Master umbrella recall.
+
+Intermediate: Learn animation cancel combos.
+
+Pro-level: Perfect kiting while outputting max DPS.
+
+Rotation Strategy:
+
+Early: Play safe, farm under tower if pressured.
+
+Mid: Rotate after 2 core items for fights.
+
+Late: True hypercarry—stay alive at all costs.
+
+🔹 Hou Yi (Reliable Teamfighter)
+
+Counters:
+
+Mobile assassins that dodge his shots.
+
+Long-range poke (Mozi, Gan Jiang Mo Ye).
+
+Tips & Tricks:
+
+Ultimate is excellent for zoning and peeling divers.
+
+Position in the center of fights to hit multiple enemies.
+
+Great synergy with peel supports.
+
+Practice Routine:
+
+Beginner: Land basic attacks consistently.
+
+Intermediate: Time ultimate for zoning.
+
+Pro-level: DPS while kiting around CC zones.
+
+Rotation Strategy:
+
+Early: Play safe until support/Jungler gives space.
+
+Mid: Rotate to sieges after 2 items.
+
+Late: AoE DPS powerhouse—stand behind frontline.
+
+🔹 Marco Polo (Mobile Shredder)
+
+Counters:
+
+CC-heavy comps that punish his dashes.
+
+Mana-hungry early game.
+
+Tips & Tricks:
+
+Use mobility for poke and reposition.
+
+Excellent vs tank comps with true damage.
+
+Needs strong mechanics to kite perfectly.
+
+Practice Routine:
+
+Beginner: Practice dash directions.
+
+Intermediate: Manage mana during extended trades.
+
+Pro-level: Dash + AA cancel for maximum DPS.
+
+Rotation Strategy:
+
+Early: Farm carefully, don’t spam abilities.
+
+Mid: Rotate with support for safe sieges.
+
+Late: DPS tank shredder role.
+
+🔹 Luban No. 7 (Stationary DPS)
+
+Counters:
+
+Assassins (Han Xin, Nakoruru).
+
+Hard engage tanks.
+
+Tips & Tricks:
+
+Position behind tank—never frontline.
+
+Use turret passive to melt objectives.
+
+Requires heavy peel to shine.
+
+Practice Routine:
+
+Beginner: Last-hit well under tower.
+
+Intermediate: Position in backline during fights.
+
+Pro-level: DPS nonstop while dodging dives.
+
+Rotation Strategy:
+
+Early: Farm carefully, weak early.
+
+Mid: Stay grouped, play around support.
+
+Late: Core damage output—don’t die.
+
+🔹 Sun Shangxiang (Crit Burst Marksman)
+
+Counters:
+
+Burst assassins that punish her reposition.
+
+CC-heavy supports.
+
+Tips & Tricks:
+
+Use roll + enhanced shot to burst squishies.
+
+Snowball reliant—get ahead early.
+
+Works best with aggressive supports.
+
+Practice Routine:
+
+Beginner: Practice roll + AA timing.
+
+Intermediate: Manage positioning after burst.
+
+Pro-level: Carry fights by constantly critting while dodging.
+
+Rotation Strategy:
+
+Early: Play aggressive if support is strong.
+
+Mid: Roam with team after 2-item spike.
+
+Late: Play like assassin marksman—pick priority targets.
+
+6.4 – Universal Marksman Tips
+
+Farm > Fight: Always prioritize farming early—Marksman without items is useless.
+
+Positioning Wins Games: Stay behind frontline, never overextend.
+
+Support Synergy: Stick close to your support—peel = survival.
+
+Kiting: Learn attack-move mechanics to DPS while repositioning.
+
+Itemization: Build anti-tank (armor shred) vs frontlines, crit vs squishies.
+
+6.5 – Marksman Rotation & Macro Guide
+
+Early Game
+
+Stay safe in duo lane, focus on gold.
+
+Don’t contest early fights unless Jungler supports.
+
+Mid Game
+
+After 2 core items, rotate for sieges.
+
+Stick with support when moving into river or jungle.
+
+Late Game
+
+Position perfectly—carry fights from backline.
+
+Never split push solo—your life is worth more than towers.
+
+Secure Dark Slayer with team once safe.
+
+6.6 – Marksman Practice Framework
+
+Beginner Training
+
+Learn farming efficiency (last-hitting under tower).
+
+Basic kiting drills in practice mode.
+
+Intermediate Training
+
+Perfect wave management—sync with objectives.
+
+Practice DPS during movement (attack-move).
+
+Pro-Level Training
+
+Survive assassin dives through positioning.
+
+Maximize DPS uptime while dodging CC.
+
+Track enemy cooldowns before committing damage.

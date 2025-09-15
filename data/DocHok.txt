@@ -1,0 +1,637 @@
+Tank Heroes
+
+Tanks are high‐durability frontliners, often playing solo in the top lane to absorb damage and initiate fights
+bluestacks.com
+. They excel at crowd control and protecting allies. In the current meta, tanks can be bullied by high-DPS carries; many marksmen and mages naturally counter tanks by kiting and shredding their defenses
+gamingonphone.com
+. Use armor/magic penetration items (e.g. Mortal Punisher) to cut their sustain
+gamingonphone.com
+. Tanks should focus on objective control (pushing lanes to help secure Dark Slayer or Towers) when safe
+bluestacks.com
+.
+
+Arthur
+
+Counters: Arthur’s mobility is limited, so ranged burst or continuous-damage heroes (e.g. Allain, Charlotte, Mayene) can kite him and exploit his cooldowns. Hard crowd control and anti-heal items (Mortal Punisher/Venomous Staff) mitigate his large heal and shield. Fast assassins who dodge his crowd control also make good counters.
+
+Tips & Tricks: Arthur is a simple but effective initiator. Use his dash+silence combo (Skill 1) to lock down a key target, then spin (ultimate) to knock up and damage surrounding enemies. Build health and armor to survive longer; his shield passive grants sustain when near minions or monsters. Timing his ultimate right after initiating maximizes crowd control.
+
+Practice Recommendations: Beginners should practice Arthur’s basic combo (dash ➞ silence ➞ spin) to engage safely. Mid-level players should work on predicting enemy movements (e.g. saving dash to dodge spells). Pros focus on map awareness—Arthur can split-push top and then join team fights. Learning when not to engage is as important as initiating.
+
+Rotation: Arthur usually plays top lane. In lane he should freeze or push wave safely, then roam to help mid or secure Rift Turtle/Dark Slayer when opportunities arise. He excels at rotating after first turret falls: join mid/teamfights to lock down opponents with his crowd control
+bluestacks.com
+. Coordinate with the jungler to invade or secure scuttle if enemies overextend.
+
+Ata
+
+Counters: Ata’s sustain makes him tanky, but anti-heal is key. Builds like Mortal Punisher cut his healing (his passive and ult heal for huge value)
+gamingonphone.com
+. High-mobility bruisers who can kite (mobility heroes like Diaochan, Dr. Bian) also neutralize him. Crowd control that interrupts his spinning assault can prevent him from healing up.
+
+Tips & Tricks: Ata absorbs damage and then heals it back; engage when you can take damage and retreat to heal. His ultimate can both taunt and cleanse – use it to peel for allies or counter-initiate. Stack health and defense items; consider Celerity Boots for sustain. Time his Shield (Skill 3) to survive burst; it can save you if timed right.
+
+Practice Recommendations: Practice using Ata’s passive: try taking jungle monster damage or wave hits to fully charge before a fight. New players should focus on timing his damage-absorb shield. Advanced play involves baiting enemy ultimates (taunt them while invulnerable, then cleanse). Learn ata’s attack range and use spins (Skill 1) to interrupt channeled spells.
+
+Rotation: Always solo top. Push minion waves with your AOE (Skill 2) then help team secure Turtle/Dragon objectives when safe
+bluestacks.com
+. Use ult taunt to initiate or peel in team fights, then back off to heal. If your tower is destroyed, join mid or jungle to apply pressure or help ganks (Ata can safely absorb turret shots to tank objectives).
+
+Dun
+
+Counters: Dun has strong crowd control but lacks mobility. Heroes with knockbacks (Prince of Lanling), silences (Mozi), or disables that prevent him from sticking can counter him. Anti-heal also chips away at his sustain. If Dun’s ult is down, marksmen can simply kite him out of fights.
+
+Tips & Tricks: Dun’s ideal engage is chaining his hook (skill 2) to pull enemies into your team, then follow up with ultimate to knock them up. Build cool-down reduction so his pull is available more often. His passive grants damage reduction while moving; abuse this by sidestepping skillshots while still attacking. Use Iron Slam (ultimate) after pulling multiple targets for maximum AOE.
+
+Practice Recommendations: Practice timing Dun’s hook to catch fleeing enemies, and learn to combo it with follow-up CC from teammates. In practice, focus on dodging skillshots in path to hook (using his high movement speed). Pro players bait enemies into close range to maximize how many enemies the hook/snare hits.
+
+Rotation: Dun is a top-lane or off-laner. In lane, trade hits using his passive shield. He should push if safe then roam mid with his hook to catch squishy mages/marksmen. In mid-game teamfights, look for targets out of position – a well-placed Iron Slam can swing fights. Dun also helps secure Dark Slayer thanks to his AOE ult and peel.
+
+Lian Po
+
+Counters: Mobile assassins and knock-up heroes break through Lian Po’s sustain by staying out of his cyclone (Skill 3). Heroes with gap-closing stuns (e.g. Zhao Yun) can punish Lian Po before his duel starts. Marksmen with kiting or strong single-target burst can slowly bring him down.
+
+Tips & Tricks: Lian Po thrives in extended fights using his passive to recharge life on every hit. Engage squishy targets with his invisibility dash (skill 2) combo, then cyclone (skill 3) to recover HP in the middle of enemies. Build a mix of offense (armor pen) and durability; he’s meant to duel and sustain. Learn to cancel his dash with basic attack for max burst.
+
+Practice Recommendations: Practice weaving in auto-attacks during Skill 2 (the dash) for extra damage. As he’s melee, learn to dodge enemy counterattacks. Duels are his specialty – practice isolating single targets to win 1v1s. Advanced play involves timing Cyclone (ult) when enemies dive in, regaining health as teammates follow up.
+
+Rotation: Top lane Lian Po pushes when safe and duels enemy offlaners. After pushing, he can roam mid or invade jungle with deep wards. In teamfights, Lian Po flanks with stealth (skill 2) and disrupts backline. If ahead, pressure towers – his dueling makes him strong at 1v1 tower dives with jungler help.
+
+Liu Bang
+
+Counters: Liu Bang’s strength is massive burst, but anti-heal (withers his kit) and kiting counters him. Hard CC before he bursts (e.g. Noor’s stun) prevents his combo. Marksmen who stay out of his range or assassins who dodge his leap (Skill 1) also mitigate him.
+
+Tips & Tricks: Liu Bang is a burst bruiser: use Meteor Hammer (ult) to knock up enemies, then spin (skill 2) for AOE damage. Build heavy damage and some resist; his passive grants extra defenses when attacking multiple enemies. His leap (skill 1) can leap over walls – use it to surprise or escape. Combine Meteor Hammer with teammates’ CC for 4-man stuns.
+
+Practice Recommendations: Learn the timing of Meteor Hammer’s windup; coordinate it in scrims to hit key targets. Practice chaining Meteor Hammer into Spin immediately to capitalize on the knock-up. At higher level, bait defenders under tower then MeteorHammer to minimize risk. Work on perfecting his dive combos with self-shield (Passive) exploitation.
+
+Rotation: He’s often played top-lane bruiser. Push out lane with combos, then rotate to mid to clash with groups (he does well in skirmishes). His AOE ulti makes him useful in teamfights: roam to help secure Turtle or Dark Slayer with ult ready. If ahead, split-push and threaten 1v1 duels to force enemy rotation.
+
+Menki
+
+Counters: Menki excels at waveclear and poking, but lacks burst. Fast assailants (Han Xin) can close gaps and kill him before he stacks energy. Anti-Heal items reduce his sustain from life-steal. Mobile mages who avoid his bola toss can outburst him.
+
+Tips & Tricks: Menki’s core is sustaining via life steal. Use Lion’s Roar (stacking ability) aggressively in mid-late game to deal massive AOE damage. He can block one incoming spell with safety roar (shield). Build a mixture of spell vamp and defense. In fights, start with Ultimate to knock enemies up, then rotate skills for maximum stack hits.
+
+Practice Recommendations: Practice his skill rotation quickly: e.g. echo orbs and donkey charge into ultimate. Work on positioning to hit multiple foes with skills. Advanced players bait enemies with his health shield – pretend to be low, then safe-roar to block a spell.
+
+Rotation: Menki usually solo top. He clears minion waves safely from range, then helps allies gank mid with Bola (Skill 2) pull. In teamfights, use his ultimate from the side to disrupt clusters. With good poke, he can also counter-jungle; drop a trap in enemy jungle to slow invades.
+
+Sun Ce
+
+Counters: His shield gets stronger when far from enemies, so high-mobility dive heroes (e.g. Han Xin) who can tag him down are effective. Marksmen with long range can whittle him when his shield falls off. Crowd control that prevents him from kiting will stop his damage.
+
+Tips & Tricks: Sun Ce is a dash-heavy warrior. Use Phoenix’s Dance (Skill 2) to blink onto targets and spin for damage, then retreat to charge his shield (Yellow Hat) by walking away. The shield both damages and heals – poke enemies then back off to stack it. Core items: AD/crit plus some defensive. Learn to “safe spin” – dash + spin, then away to regen shield.
+
+Practice Recommendations: Practice using Skill 2 in quick succession (double dash) for mobility. As his shield blocks a spell then heals, train yourself to guess enemy spinners (e.g. Ultimate or CC) and time the poke-back cycle. Pros feint engaging, baiting support spells, then all-in when shield is full.
+
+Rotation: Often plays solo top. Push waves with long-range spin, then roam mid to assist ganks (double dash lets him traverse walls). In midgame teamfights, dive onto the ADC with his gap-close and spin, then peel away to recharge. If top is under pressure, he can join bot with Wukong-style mobility for surprise attacks.
+
+Zhang Fei
+
+Counters: Stealth or blink heroes (Prince of Lanling) can slip past him, and anti-heal/gap-close marksmen shrink his effectiveness. Kiting away from his cone-AOE ult (when it’s channeling) reduces its impact. Heroes who silence or stun him before he ramps up (like Lindis) will shut him down.
+
+Tips & Tricks: Zhang Fei’s ultimate deals massive cone damage and debuffs; use it to peel or initiate. His first skill jumps to a location – use it to escape or close gaps. Build cooldown and tank stats (after a point, damage). In 1v1s, combo: jump (Skill 1) ➞ Hammer (Skill 2) for burst and stun. Learn to angle Hammer to stun multiple foes.
+
+Practice Recommendations: Practice maximizing Hammer’s low-cooldown by resetting with kills. Since ultimate is channeled, practice timing it for safety (e.g. behind allies). Beginners should train last-hitting with his normal attacks, since he’s melee. Advanced players can use a Q->W combo to triple-hit one foe for a kill (jump + hammer).
+
+Rotation: Primarily a support/tank in clash/bot lane, but if solo top, he holds lane then assists bot. Use jump to join midfights quickly (common Zhang Fei play is a “flank gank” by jumping into mid or bot). In late game, he can stand at choke points and roar ult to zone – it’s a fight-winner when timed with team.
+
+Zhuangzi
+
+Counters: Hard CC or silences can interrupt his passive immunity cycle. Enemies who burn him down in bursts before he can transform (ultimate) are good counters. Also, heroes who can track his “soul form” (like Zhuxiao’s trap or permanent reveals) prevent him from escaping.
+
+Tips & Tricks: Zhuangzi’s key is his ultimate, which grants invulnerability. Use his Transcendent form to bluff engages: attack, then vanish to dodge spells. Skill 1 and Skill 2 both buff his basic attacks – weave attacks in between skills for burst. Build cooldown and tank; your ult is your safety. Practice “touch-and-fade”: use short combos, then turn on ultimate before enemy cooldowns return.
+
+Practice Recommendations: Very timing-dependent – practice when to trigger ultimate. In solo play, train using skills to poke then ult at 50% HP to regen with Sweep (Skill 3). As a pro, you’ll bait enemies into committing, then vanish to punish their cooldowns.
+
+Rotation: Often picks bottom support or solo. He can swap lanes due to ulti. Push safely and create plays: bait enemies near turret, then ult and reappear for counter-engage. He pairs well with burst teammates – poke down enemies with his space, force them low, then vanish and re-engage with full HP to surprise.
+
+
+Warrior (Fighter) Heroes
+
+Warriors (Fighters) are versatile duelists, typically in the clash/top lane. They balance offense and defense
+bluestacks.com
+. They often take side lanes to duel or assist jungles. Many have self-sustain or strong level-ups. In fights, hard-hitting fighters like Butterfly and Pei shine. However, they can be countered by burst mages or team fight crowd control when isolated. Good rotations: pressure top lane, then flank the enemy with jungler support or contest Dark Slayer on timely rotations
+bluestacks.com
+.
+
+Allain
+
+Counters: Allain’s powerful charge attacks mean tanks with crowd control (e.g. Zhang Fei, Arthur) can absorb and stun him. Hard AOE slows or snares (Noor) can keep him from sticking. Anti-armor items (e.g. Desolate Blaze) reduce his crits. Mobile mages (Prince of Lanling) can avoid his combos.
+
+Tips & Tricks: Allain deals burst via his skill 2 (his guns). Use Tactical Flash (skill 1) to reposition then fire skill 2 for max bursts. His ultimate charges quickly after attacks – weave basics to fill it for huge AOE damage. Build critical chance and penetration to maximize crits. In duels, cycle between focus-fire bursts and mobility dashes to avoid retaliation.
+
+Practice Recommendations: Practice canceling his basic attack animations into skill shots for maximum DPS. He requires target prioritization – train picking squishy targets first. In pro play, coordinate all-in combos with jungle CC, as Allain has limited follow-up without help.
+
+Rotation: Allain often crashes top. After pushing, he can roam mid because his mobility lets him traverse quickly. In late game he can teleport via ultimate (if built) to split-push. His burst means he should join fights immediately when enemies group; if alone pushing, avoid 1v3s without backup.
+
+Athena
+
+Counters: Athena’s kit revolves around team support (heals, shields). Burst assassins (Xuance, Menki) or long-range burst mages can kill her quickly if out of position. Anti-heal and grevious wounds effects (Mortal Punisher) diminish her healing. Engaging when her ult (damage reduction shield) is down makes fights easier.
+
+Tips & Tricks: Athena buffs allies and can teleport them. Use Blessing at right time: it speeds up allies and roots enemies in an area. Save Heal/Aegis (ult) to counter strong enemy engages. Build cooldown and support items (health regen) to boost team uptime. In practice, focus positioning so your circle covers key fights.
+
+Practice Recommendations: Learn the timing of her ult’s root to catch enemies. Practice placing heal in the fray, as it buffs allies and slows foes. High-level: anticipate enemy dive and teleport your marksman out (teleport allies). Communicate with team to combo shields and heals.
+
+Rotation: Athena is a true support – stays bot with marksman, then rotates with jungler to gank mid/top. Her teleport (Ultimate) allows dynamic plays: a skilled Athena can save an ally by whisking them out of danger or tower. After early fights, Athena should be around mid to pressure together, since she empowers teammates.
+
+Butterfly
+
+Counters: High-vision supports that track her (Zhuangzi’s Soul form) or continuous damage dealers (Gao) catch her stealth. Burst mages (Angela) can finish her before she escapes. If Butterfly over-commits, any stun or silence seals her fate.
+
+Tips & Tricks: Butterfly’s ultimate resets on takedowns – play hyper-aggressively against groups of enemies to stack resets. Her skill 1 blinks to targets (infinite range if kill), so slice deep to assassinate carry then reset. Build crit and attack speed. In fights, mark a squishy with ultimate, use all skills on them, then seek next target with reset.
+
+Practice Recommendations: Practice tower dives: her blink + heal is great for surprise attacks. As a beginner, master basic combos on creeps to see reset behavior. Experts create chaos by flitting in and out; practice estimating enemy HP to secure resets.
+
+Rotation: Butterfly usually farm-lanes (jungle/farm lane). Once she hits 4 or 7 and gets kill resets, she can collapse on sidelanes. A common pro play is split-push top, then teleport to join major fights. She “roams” by taking buff camps then suddenly ganking mid. Always carry Smite to keep farmed.
+
+Charlotte
+
+Counters: As a melee fighter, Charlotte is vulnerable to kiting. Ranged burst (Kongming, Shi) outrange her area-of-effect dash. Stuns interrupt her combos. If Charlotte tunnels onto the wrong target (no follow-up), she dies.
+
+Tips & Tricks: Charlotte’s kit is mobility + spin damage. Use Demon Dash (Skill 1) to close in on enemies, then unleash Crescent Cleave (Skill 2) for triple spins. Build attack speed/crit. Beginner tip: don’t dive 1v2 without backup – skill 2 is AoE but she needs an isolated target. Pros will use demon dash through walls for surprise attacks.
+
+Practice Recommendations: Practice chaining Demon Dash into spins quickly; timing is key. In scrims, practice dueling vs another Charlotte. Advanced players learn when to hold dash as an escape versus engagement.
+
+Rotation: Charlotte is typically clash lane (solo fighter) or jungle. In clash lane, push up then join mid-ganks with dash. In jungle, clear camps fast, then cross-map gank bottom or mid. Her ultimate can initiate teamfights if used on a clump; rotate into teamfights as they break out (she has AoE damage to follow up on any CC).
+
+Diana (Dian Wei)
+
+Counters: Ranged pokers and kiting (marksmen) keep Diana at bay during her armor breaks. If caught before she spins, her burst is negated. Crowd control especially knocks her out before she reaches targets.
+
+Tips & Tricks: Diana excels at armor shred with her Whirlwind. Use jump (Skill 1) to dive the backline, then immediately spin (Skill 2) around a target to shred their armor and heal from each hit. Build a mix of crit and lifesteal for sustained burst. In teamfights, try to jump on the enemy carry after frontliners are engaged.
+
+Practice Recommendations: Practice perfecting “jump-spin” combos in the jungle: engage jungle monsters or bots to get quick experience with her animation. Mid-game, practice timing jump to stick to mobile targets (like marksmen). Advanced play: you can often jump over walls to escape after dueling.
+
+Rotation: Often clash lane. Push and look for 1v1s early with ramp. Once items spike, Diana can roam mid or steal jungle buffs with her high clear speed. In fights, she either dives the backline or peels for her own carry – adapt based on need. She also can split-push effectively with spin.
+
+Fuzi
+
+Counters: Allies with evacuation or displacement (Zhuangzi, Zhang Fei) can disengage Fuzi’s combos. If she overextends using nape (her blink) incorrectly, she can be caught out by crowd control. Tanky frontliners who don’t die quickly frustrate her burst pattern.
+
+Tips & Tricks: Fuzi deals percent health damage – hit squishy targets or towers. Use Daybreak (Skill 1) to jump on enemies, then Flowing Smoke (Skill 2) to slice multiple foes. Her ult grants invisibility charge – use it to relocate mid-fight or chase. Build high crit and penetration, since it amplifies her ultimate hits. In lanes, poke with skill 2 to poke, then all-in with dash combo.
+
+Practice Recommendations: Practice remembering she has two “outs” (second dash and ultimate invisibility). Work on engaging and quickly repositioning. As her kit revolves around mobility, scrimmage combos to maximize output (first skill, then spin). Pro players often use invis charge to avoid lethal DPS.
+
+Rotation: Fuzi typically fights in mid or clash lane. Poke from distance, then all-in when enemy is low. After turret falls, she can roam mid/jungle. During teamfights, she should leap onto the opposing carry, kill fast, then vanish (her ult stealth) to hunt another.
+
+Li Xin
+
+Counters: Heavily dependent on hitting axes – CC before axes land (instant disable) halves his damage. Pokes and slows that prevent his dash reset will limit him. In teamfights, she can’t do much after axes run out, so she is countered by durable tanks that survive his bursts.
+
+Tips & Tricks: Li Xin’s axes (Skill 2) bounce to nearby foes – try to “angle” fights in narrow spaces so they hit multiple targets. His Q (Skill 1) tosses an axe forward and comes back – use it for poke or to farm. The ult causes a huge knock-up. Build attack speed and on-hit. Training tip: stand near minion waves to allow axes to bounce.
+
+Practice Recommendations: Practice aiming axes to hit targets by throwing into a group. As an advanced move, learn to W-E in quick succession for double axe toss. Work on kite targets to keep them under your axes.
+
+Rotation: Li Xin is typically clash lane. After pushing to tower, look for skirmishes (he thrives in small fights). In mid-late game, his ultimate is great to help secure Dragon with knock-up plus damage. He can also go jungle to take enemy camps with his axe-spin waveclear.
+
+(Additional fighter heroes not detailed due to space; similar analysis applies.)
+
+Mage Heroes
+
+Mages control the mid lane with high burst or area damage, but have low durability
+bluestacks.com
+. They often rotate mid to flank or contest jungle. Their main counters are gap-closing assassins (Prince of Lanling, Han Xin) and hard lockdown; CC or silence breaks their combos. Best macro: shove mid quickly and assist side lanes or secure mid-lane objectives.
+
+Angela
+
+Counters: Diaochan can dodge Angela’s skillshots and retaliate with her own sustained burst
+oneesports.gg
+. Lady Sun’s mobility and poke outrange Angela
+oneesports.gg
+. Prince of Lanling can ambush her before she casts spells
+oneesports.gg
+. In general, heroes who can close gaps or out-range her (marksmen, mobile assassins) are strong counters.
+
+Tips & Tricks: Angela excels at poke and zone control. Fireworks (Skill 1) covers an area with spells – use it to farm and poke simultaneously. Costume Change (Skill 2) dashes and extends range – use it to line up your next skill. Her ultimate is a large nuke; always check for clusters. Build burst CDR and magic power. If she fails to land crowd control (Skill 2), she becomes vulnerable—so patience is key.
+
+Practice Recommendations: Practice landing the first skill consistently at range. New players should use Dragon Dance (ult) only when targets are bunched. Advanced players bait enemies into firefight, then ult-turn for big combo. Improving Angela means mastering skill timing: don’t start ultimate unless your Team can follow up.
+
+Rotation: As a mid mage, push lane with Fireworks and watch jungle entrances. Rotate to help duel-lane skirmishes with your AoE. Post-6, Angela’s ultimate can swiftly clear jungle camps—secure mid camps as needed. In teamfights, poke from high ground or flank; use ult on grouped foes to swing fights.
+
+Diaochan
+
+Counters: Burst or silence (Mozi’s silence zone) stops her combo. Tanks with tenacity (Skorn, Arthur) shrug off stuns/slow. Heroes who can dodge her dash (Angela’s blink) or out-range her (Gao) limit her impact. If she misses the root from her ultimate, she loses most of her kill pressure.
+
+Tips & Tricks: Diaochan is about high sustained damage through mobility. Use Dance of Petals (Skill 1) to avoid skill shots, then set up for Flowery Potential (ult). Apply her passive stacks on each hit; when ult triggers (multiple hits), it blasts enemies around her. Build magic power and penetration. Master her “in-and-out”: dash, quick attacks, and retreat while ult stacks.
+
+Practice Recommendations: Practice weaving autos during Dance of Petals to maximize passive. Duo-practice combos: e.g. use ult on a stunned target for easy kill. Advanced players bait enemy spells with short attacks before triggering ult to reduce damage taken.
+
+Rotation: Mid lane Diaochan should shove then gank jungles or side lanes with her escape. She roams easily by teleporting after a full wave clear (her ult removes cooldowns). In teamfights, she can reposition after damaging with ult by using Petals dash to safety.
+
+Dr. Bian (Baron Serket)
+
+Counters: Healing reduction (Mortal Punisher) stops his strong sustain. Teleporters and high mobility can avoid his stun field. Burst during stun or catch him before he stacks is ideal.
+
+Tips & Tricks: Dr. Bian excels at suppressing area (his field stuns). Use his ultimate to pull enemies with the web then stun them, finishing with skill 2 AOE. Skill 1 also pulls individual foes. Build magic damage + cooldown. Coordinate his stun field with ally area spells for devastating wombo-combos.
+
+Practice Recommendations: Practice landing stuns with his orb (ult) on moving enemies. Link up with ally stuns in custom games. High-level play involves precise positioning of stun field at choke points.
+
+Rotation: Often mid or solo. After pushing, hide in jungle brush to ambush. His long-ranged grab can initiate from safety. In teamfights, flank and ult onto enemy backlines then chain-stun.
+
+Daji
+
+Counters: CC and burst outrun Daji: any heavy engage that interrupts her chain slows (Sun Bin) is effective. Tanks absorbing her 3-hit combo reduce kill potential.
+
+Tips & Tricks: Daji’s play is weaving her projectile chains. In jungle vs minions, practice charging her orbs fully (up to 3x). In fights, land a skill 2 (area stun) to set up her multi-shock combo. Build magic pen/crit. At pro level, one can bait with decoy (her skill 1) and then re-engage.
+
+Practice Recommendations: Master the timing between her lightning throws so they hit consecutively on moving targets.
+
+Rotation: Plays mid. Push, then helps skirmishes with her chain damage.
+
+Gao (Prince of Lanling)
+
+Counters: Mozi’s silence shuts down his ult; anti-stealth slows (Donghuang’s grounds, Zhang Fei’s ult) reveal him. Tanks with tenacity endure his burst better.
+
+Tips & Tricks: Gao’s stealth burst makes him an ideal assassin. Use Silent Strike (Skill 1) to initiate with unexpected gap-close, then Sling (Skill 2) to slow and deal triple-hit damage. Build crit and burst. In duels, combo is crucial: W ➞ Auto ➞ E, then use ult for big damage.
+
+Practice Recommendations: Practice timing your Spirit-Strike (ult) from stealth for max surprise. Against bots, refine aiming your Sling to hit moving targets.
+
+Rotation: Gao often jungles. Farm quickly, then roam mid to harass squishies. He can flank from fog-of-war easily. In teamfights, dive the enemy mage/marksman who is out of position.
+
+Heino
+
+Counters: Tanks can shrug off most of his damage if focused. Long-range heroes outrange his attack. Silence hurts him severely.
+
+Tips & Tricks: Heino’s passive headdresses reduce opponent healing. Use Fierce Roar (skill 2) to apply slow and passive stacks, then tie them down with his net (skill 1). His ult locks enemies with fear. Build cooldown reduction, as multiple skill casts boost his passive.
+
+Practice Recommendations: In custom, test how his headgear passive stacks on champions to judge optimal skill rotation.
+
+Rotation: Usually mid. Snipe low-health targets with net, then ult nearby clusters in teamfights.
+
+Lady Zhen
+
+Counters: High-burst mages (Angela, Mozi) can one-shot her before she explodes. Tanks with CC catch her out of blood pools. Her mobility is limited against gap-closers.
+
+Tips & Tricks: Lady Zhen’s DPS rises with both buffs from blood pools (Skill 2). Spam her dagger (Skill 1) and spin (ult) when pools are up. Build attack speed and lifesteal. In fights, drop pools on fleeing enemies then pursue with empowered attacks.
+
+Practice Recommendations: Work on dropping Blood Wells in quick succession. Versus creeps, practice filling wells to near completion and finishing with ult.
+
+Rotation: Mid or clash lane. Push lane with normal attacks, then pool-walk to jungle or bottom to assassinate solo targets. In teamfights, place pools to “zone” enemies behind, then unleash ult when they cluster.
+
+Liang
+
+Counters: For marksmen like Lady Sun, Liang’s crowd control is deadly (see below
+oneesports.gg
+), so he himself is balanced. Range poke and illusions can stay out of his bind spells.
+
+Tips & Tricks: Liang chains stuns and barriers. Use Silk Trap (Skill 1) to root, then weave Trap of Infinity (Skill 2) around the foe; ultimate then suppresses them completely. Barrier (ult2) can protect allies or stall dives. Build magic pen. Prioritize binding carries.
+
+Practice Recommendations: Practice landing silk traps at max range. In teamplay, coordinate with allies to capitalize on his stuns.
+
+Rotation: Mid-lane. Use his ultimate to pick off one enemy and secure with team. He can also ward and trap jungle entrances to provide vision control for ganks.
+
+Luna
+
+Counters: Crowd control and gap-closers punish her. Tanks with tenacity run down her illusions. Her spells require channel time – interrupt those to stop damage.
+
+Tips & Tricks: Luna’s strength is AOE with moonlight. Position skill 1 (the big blade swing) to hit multiple enemies. Use Ultimate when opponents are grouped. Build cooldown reduction to drop Ultimate more often.
+
+Practice Recommendations: Learn to lead your pendulum swings to meet moving enemies.
+
+Rotation: Solo mid or fight lane. In teamfights, stay back and swing through crowds; if safe, take turret/dragon quickly with AoE ult.
+
+Milady
+
+Counters: Burst or silence mid-combo stops her rapid dash resets. Tanks can survive her single-target burst after the first two dashes.
+
+Tips & Tricks: Milady’s two skill dash provides nukes. Use Shadow Dance (Skill 2) to chain into ult and dash again. Timing is key to overlap abilities. Build magic pen.
+
+Practice Recommendations: Practice cancelling skills to dash twice in succession. Use mirrors of jungle monsters to train combos.
+
+Rotation: Clash lane. Teleport to lane fights with her large teleport.
+
+Mi Yue
+
+Counters: When she’s untargetable (ult), you must back off. Otherwise, anti-burst (Zhuxiao passive, Ning’s shield) survive her combo. Mobile champions avoid her waves (Skill 1).
+
+Tips & Tricks: Mi Yue’s ult grants brief invulnerability and damage on exit – use it to dodge critical spells, then burst. Skill 2 bites an area of ground, snapping up. Build cooldown reduction.
+
+Practice Recommendations: Get used to transforming mid-fight; exit her untargetable state in the middle of enemies for damage.
+
+Rotation: Mid or top assassin. Poke down mid-laners, then dive backline with ult resets.
+
+Mozi
+
+Counters: Anti-silence (support cleanse) blunts him. Projectiles nullifiers (Arli’s Maple Dance) can intercept his crossbow bolts. Tanks survive his burst due to resist.
+
+Tips & Tricks: Mozi silences/roots with his orbs. Center Lightning Lash to pin enemies. His ultimate creates a silence field
+oneesports.gg
+; use it to shut down enemy healers (as he counters Dyadia). Build magic pen and movement speed. Keep distance in fights; he’s frail.
+
+Practice Recommendations: Master shooting his long-range bolts to poke through minion waves.
+
+Rotation: Mid lane mage. With his ultimate, corner enemies with CC. Rotate to dragon with boomerang (skill 1) ready.
+
+Nuwa
+
+Counters: Damage-over-time (Mortal Punisher) stops her multi-hit. Good vision denies her clone (ult) flanks.
+
+Tips & Tricks: Nuwa’s clone (ult) serves as both taunt and alternate DPS. Direct it to distract foes. Swap spells between herself and mirror. Long-range missile barrage is her second ult (ship) – aim it from unexpected angles.
+
+Practice Recommendations: Practice teleporting after cast to dodge spells.
+
+Rotation: Mid mage. After pushing, use Mirror on forest to ambush jungle camps.
+
+Sakeer
+
+Counters: Burst before he stacks three marks. He’s fragile.
+
+Tips & Tricks: Sakeer shines with 3 marks (Skill 1); land the third to trigger stun. His Spin (skill 2) is great for waveclear. Build cooldown.
+
+Practice Recommendations: Hitting 3rd mark is paramount – train quick double-casting.
+
+Rotation: Mid-lane poke champ – stay in range to apply marks, then ult for huge damage.
+
+Shangguan
+
+Counters: Heavily reliant on passives, so anti-shield (enemy break effects) hurts.
+
+Tips & Tricks: Use his charge to the enemy hero and triple-hit rapid shots (skill 1) for damage. Recall allows reposition, use it after combo if safe.
+
+Practice Recommendations: Use his recall to dodge ultimates in scrims.
+
+Rotation: Farm lane, then all-in on immobile carries.
+
+Shi
+
+Counters: Silence and interupts before she triggers second skill reset. Burst if caught during her mid-combo.
+
+Tips & Tricks: Shi’s skill 2 resets on ult casts. She’s about rhythm; use Ult to recast skill2. Build CDR/magic pen.
+
+Practice Recommendations: In custom games, practice hitting Skill 1 and fast-casting U to keep enemy in freezetime.
+
+Rotation: Mid mage. Stun-priority mages/marksmen and follow up with allied burst.
+
+Sima Yi
+
+Counters: Dispel (purify) reveals his clones. If clones die early, he has no subterfuge.
+
+Tips & Tricks: Use clones to confuse enemies. His skill 1 shoots 3 bolts in spread – aim at close-range for full impact.
+
+Practice Recommendations: Practice swapping places with clones during danger (aerial dance).
+
+Rotation: Mid or bot. Teleport minion clearing, then gank from behind.
+
+Sun Bin
+
+Counters: Marksmen outrange him easily. Silence before ultimate denies his area stun.
+
+Tips & Tricks: He excels at team CC with his global (ult). Coordinate ultimate to trap enemies with allied control. Skill 2 bounces to max targets—use it in narrow corridors.
+
+Practice Recommendations: Master predicting enemy position for ultimate drop.
+
+Rotation: Mid. Place webs in jungle and lane entrances for vision, rotate ganks from far.
+
+Xiao Qiao
+
+Counters: Stun or kill her channel (Skill 1/ult). She’s squishy.
+
+Tips & Tricks: Her snowball barrage is long-range AOE poke. In lane, spam it to zone. Use her mid-air guns to quickly dash when needed (skill 2).
+
+Practice Recommendations: Lead shots well; ask allies to roam after you poke.
+
+Rotation: Mid. After early push, she farms jungle towers quickly; can siege from afar.
+
+Wang Zhaojun
+
+Counters: Agile melee can close gap (Brunhilda).
+
+Tips & Tricks: Ice Field (ult) roots multiple. Her Q snipes across lane with slows.
+
+Practice Recommendations: Learn the width of Ice Field for maximal hits.
+
+Rotation: Mid. Siege turrets from safe distances; freeze fights.
+
+Yixing
+
+Counters: High single-target burst prevents his clones.
+
+Tips & Tricks: Clone mirror to deal double. Focus in mid-range.
+
+Practice Recommendations: Use clone to tank a bit of turret or spells.
+
+Rotation: Mid.
+
+Yuhuan
+
+Counters: Dispel (cleanse) removes her ult invisibility.
+
+Tips & Tricks: Use ult on low-vision flanks, then burst with Skill 2 swirl.
+
+Practice Recommendations: Practice vanish behind walls.
+
+Rotation: Mid support.
+
+Zhou Yu
+
+Counters: Mobility (Diaochan) avoids his suns.
+
+Tips & Tricks: His ult locks enemies in place; follow up with basics and skill 1. He can’t move during his ultimate, so use it when assured of catch. Build cooldown.
+
+Practice Recommendations: Master timing of Barbeque chicken ultimate – best used when enemy has no escape.
+
+Rotation: Mid. After laning, roam to bot and drop ultimate for team mops-ups.
+
+Ziya
+
+Counters: Silence stops his global presence.
+
+Tips & Tricks: Ziya shines when enemies cluster mid. His ult obliges them to hit him. Win-enables best with cooldown.
+
+Practice Recommendations: Practice grabbing ultimate channels in jungle.
+
+Rotation: Mid.
+
+Marksman (ADC) Heroes
+
+Marksmen powerfarm bot lane, scaling into late-game DPS
+bluestacks.com
+. They rely on staying safe early; greedy playing into CC is deadly. Their counters are assassins (Xuance, Mi Yue) who burst them, and heavy tanks who can absorb their AOE ultimates (like Arthur). Focus on last-hitting early and rotating to Dragon/Soul.
+
+Agudo
+
+Counters: Burst assassins and heavy CC (Zhuangzi, Zhang Fei). His split shot ult is slow projectile – avoid or interrupt.
+
+Tips & Tricks: Use Spreadshot (Skill 1) to waveclear and poke, then ultimate for teamfights. Kite by weaving basic attacks between spells. High attack speed builds (e.g. Phantom Blade) boost his DPS.
+
+Practice Recommendations: Work on animation canceling: shoot + move + shoot for extra attacks.
+
+Rotation: Bot lane. Farm safely behind support, then join dragon pushes.
+
+Alessio
+
+Counters: Stealth (Lanling) or invisible mages that dodge his barrage. Hard CC counters his sustained damage output.
+
+Tips & Tricks: Alessio fires while moving – always move after skill cast to reposition. Build mixed pen to maximize shots. His ultimate has huge range; abuse angles to hit from behind walls.
+
+Practice Recommendations: Practice continuous movement during volleys.
+
+Rotation: Bot lane (or mid). After lane push, use ult from fog to pick fights.
+
+Ao’yin
+
+Counters: If caught from behind, he has no escape (no dash). Heroes like Mozi (silence) or Zilong (pin) stop his flights.
+
+Tips & Tricks: He flies forward (dash) twice, leaving afterimages that lure enemies. Always fight backwards (run towards teammates). He has no primary weapon swinging, so keep distance. Build crit & utility.
+
+Practice Recommendations: Master controlling afterimages to deceive enemies.
+
+Rotation: Bot. He can solo harass supports as he flies.
+
+Arli
+
+Counters: Stuns before her dash or after avoids her flurry. Tanks weather her burst longer.
+
+Tips & Tricks: Arli’s strength is mobility. Use Lithe Step (Skill 1) to reposition and dodge, then Chain Cloud (Skill 2) for burst. Her ultimate knocks back – save it for peeling or zoning. Build attack speed or burst depending on need.
+
+Practice Recommendations: Practice darting in and out of fights; her kit resets soon after battling.
+
+Rotation: Bot lane. Her dash makes roaming easier – she can shove then ambush mid. In teamfights, she can flank due to her high speed.
+
+Chano
+
+Counters: Big AOE spells outrange him. Heroes who can chain multiple targets burst his clones.
+
+Tips & Tricks: Chano casts multiple pumps, stacking power. Use his sparkles to boost attack speed when safe. Master maximizing turret farming at level 4 vs 1v1s.
+
+Practice Recommendations: Deploy all marbles before teamfights for maximum buff.
+
+Rotation: Bot. Supports with him keep him alive while he nukes.
+
+Consort Yu
+
+Counters: Assassin dives before she places defensive wind (skill 2) can kill her.
+
+Tips & Tricks: She has immunity to basic attacks during skill 2. Use it to bait enemy DPS, then counter with Oak Bolt (Skill 1) and rolling arrow (ult). Build speed and burst. If shot stuns are off-CD, reposition carefully.
+
+Practice Recommendations: Learn to delay skill 2 to absorb key attack (like Ashe’s ult).
+
+Rotation: Bot. Survive early engage, then outduel with skill.
+
+Di Renjie
+
+Counters: Focus him early in fights; he’s not very mobile.
+
+Tips & Tricks: Throws bolas as passive & skills; land those to slow, then max his amp tower (ult) in fights. Build damage and cooldown.
+
+Practice Recommendations: Use ult tower in bushes behind enemy lines safely.
+
+Rotation: Bot. Can also jungle; after initial farm, teleport out of fights with ult.
+
+Erin
+
+Counters: Burst or silence shuts her down; CC punishes her lack of defense.
+
+Tips & Tricks: Erin’s gravity skill can pull enemies; always try to catch someone from behind cover. Use barrages (skill 1) to keep distance and slow. Build crit.
+
+Practice Recommendations: Aim Barrage in advance (predict moves).
+
+Rotation: Bot.
+
+Fang
+
+Counters: Burst on him as he is squishy.
+
+Tips & Tricks: Fang charges power with each bow shot; alternating attack and movement is key. Ult releases power violently; use it on clumped foes.
+
+Practice Recommendations: Timing of charged shots vs healing tower (passive).
+
+Rotation: Bot.
+
+Flowborn (Marksman)
+
+Counters: Standard marksman counters: dives and CC.
+
+Tips & Tricks: Her double-shot skill lets her burrow for invisibility; use it to escape or reposition. Charge shots longer for higher DPS.
+
+Practice Recommendations: Master her ambush combos.
+
+Rotation: Bot or jungle clear as marksman.
+
+Garo
+
+Counters: Skilled mages dodge his passive circles. If caught outside his circle, he deals no bonus. Silence prevents his resets (since he needs to cast Ultimate twice to give allies MS).
+
+Tips & Tricks: Maximize time inside his circle for bonus damage. His ult can be cast twice – first for AOE, second to buff allies. Always stay in circle during fight. Build crit and lifesteal for sustained DPS.
+
+Practice Recommendations: In custom, practice kite patterns to always have a circle spot.
+
+Rotation: Bot. After laning, he can roam by sending circle to ward first then sneak behind.
+
+Hou Yi
+
+Counters: Stun blinds him. Tanks soak passive damage.
+
+Tips & Tricks: His Silver Arrows lock on targets – focus valuable foes. After 3 stacks on a target, he does bonus damage. Ult bounces; position it to hit many. Build pen and crit.
+
+Practice Recommendations: Practice repositioning mid-ulti to bounce to new targets.
+
+Rotation: Bot.
+
+Huang Zhong
+
+Counters: He’s rooted while firing; jump on him pre-ult.
+
+Tips & Tricks: Shoot while moving slowly. His ultimate has long cool – use it in teamfights to hit mult.
+
+Practice Recommendations: Learn to time minion wave pushes with ult.
+
+Rotation: Bot.
+
+Lady Sun
+
+Counters: Consort Yu (immunity) and Cai Yan (heals) greatly hurt her
+oneesports.gg
+oneesports.gg
+. Liang’s suppress ulti stops her escapes
+oneesports.gg
+. Mobile assassins can catch her down.
+
+Tips & Tricks: Lady Sun is fast and has long-range shurikens. Dodge skillshots and use high mobility to kite. Her passive grants lifesteal and shields – utilize skill combos to trigger bonus shield often. Build attack speed/power.
+
+Practice Recommendations: Practice weaving in and out of fights between shots. She requires strafing and split-second jukes.
+
+Rotation: Bot. Once mid-game, she can push fast and then rotate to secure Dragon.
+
+Luara
+
+Counters: If caught by CC (Maokai) she can’t get off combos.
+
+Tips & Tricks: Luara’s projectiles bounce; stand near walls to maximize ricochet hits. Ult arrow travel far; line up with allied engages.
+
+Practice Recommendations: Use bots to get feel for shot angles.
+
+Rotation: Bot.
+
+Luban No.7
+
+Counters: Zone control or countersprites.
+
+Tips & Tricks: He has many weapons; skill1 disables teams. Use rockets in open fights.
+
+Practice Recommendations: Desync between weapons.
+
+Rotation: Bot.
+
+Marco Polo
+
+Counters: Crowd control (Zilong’s pin, Daji’s stun) before he heals removes his strength. Continuous DPS fights outlast him.
+
+Tips & Tricks: Marco Polo marks enemies (1st skills) to heal off them. Utilize silenced coins wisely. His passive dash gives short invuln – use it to dodge key spells. Build crit/hp. Summon drone for sustained DPS in fights.
+
+Practice Recommendations: Focus practicing his chain gun bursts and timing evades.
+
+Rotation: Bot (farm lane). He can cross-map gank with dash+drone, but mainly stays bot to scale. In fights, he peels by marking enemy dives and healing off frontliners, then transitions to carries.
+
+Meng Ya
+
+Counters: Silences (Mozi) stop her spamming. Agile heroes (Butterfly) strike during her high-cast animation on ult.
+
+Tips & Tricks: Meng Ya increases spell volume; use mega guitar for AOE beatdowns. Charge her Q for increased range (and healing if needed). Build AP/CDR.
+
+Practice Recommendations: Learn to hit moving targets with her skill2.
+
+Rotation: Bot. Her global ult means she can rejoin any fight – practice teleporting after pushing tower.
+
+(Support and other roles may continue similarly, but truncating here.)

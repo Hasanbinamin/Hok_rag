@@ -1,0 +1,193 @@
+8.1 – The Philosophy of Team Composition
+
+In Honor of Kings, winning isn’t just about individual mechanics—it’s about drafting and playing a composition that maximizes synergy. At pro-level, every hero pick affects:
+
+Damage profile (burst, sustained, poke, true damage).
+
+Engage potential (hard CC, mobility, initiation tools).
+
+Scaling curve (early aggression vs late-game hypercarries).
+
+Map control (vision, rotations, jungle pressure, wave clear).
+
+A well-constructed team comp is one where every role covers another’s weakness.
+
+8.2 – Core Composition Archetypes
+1. Dive Composition (Pick & Burst)
+
+Goal: Jump on carries, eliminate before they react.
+
+Core Heroes: Han Xin, A Ke, Nakoruru (Assassins), Zhang Fei/Liu Shan (Engage Support), burst Mages like Daji.
+
+Strengths: Snowballs early, great at punishing squishy drafts.
+
+Weaknesses: Falls off if enemies buy defense or peel well.
+
+Pro Tip: Coordinate simultaneous dives—don’t go one-by-one.
+
+2. Front-to-Back Teamfight Composition
+
+Goal: Protect backline, slowly burn through enemy frontline.
+
+Core Heroes: Donghuang Taiyi, Sun Bin, Arthur (Warrior), Marksmen like Luban No.7 or Hou Yi.
+
+Strengths: Stable scaling, strong in 5v5 fights.
+
+Weaknesses: Weak to poke or heavy split-push.
+
+Pro Tip: Always fight around objectives (Tyrant/Slayer).
+
+3. Poke & Siege Composition
+
+Goal: Chip enemies down before engaging.
+
+Core Heroes: Mages like Gongsun Li, Cai Yan, poke Marksmen (Marco Polo), utility supports (Sun Bin).
+
+Strengths: Objective control, forces enemies to engage poorly.
+
+Weaknesses: Struggles vs dive comps.
+
+Pro Tip: Time poke + Sun Bin ult to control vision zones.
+
+4. Split-Push Composition
+
+Goal: Pressure side lanes, force enemy team apart.
+
+Core Heroes: Warriors like Guan Yu, assassins like Nakoruru, fast wave-clear Mages.
+
+Strengths: Punishes immobile comps, wins through macro.
+
+Weaknesses: Weak in 5v5 teamfights.
+
+Pro Tip: Constantly track enemy teleport/rotation timers.
+
+5. Late-Game Hypercarry Composition
+
+Goal: Funnel gold into one or two carries, protect them until late.
+
+Core Heroes: Marksmen like Luban No.7, Gongsun Li; Supports like Donghuang/Sun Bin; peel Warriors.
+
+Strengths: Insane scaling, unbeatable if hypercarry survives.
+
+Weaknesses: Weak early → vulnerable to early dives.
+
+Pro Tip: Never take risky early fights—play safe until items.
+
+8.3 – Global Server Meta Trends (2025)
+
+Tank + Utility Support Priority
+
+Donghuang, Zhang Fei, Sun Bin dominate pro play due to CC + utility.
+
+Squishy enchanter supports are situational.
+
+High-Mobility Assassins Still Rule Early Game
+
+Han Xin, A Ke, Nakoruru are priority bans.
+
+Early jungle tempo decides first 5 minutes.
+
+Marksmen Remain Win Condition
+
+Despite assassin dominance, teams still draft scaling ADCs like Luban No.7 and Hou Yi.
+
+Protect-the-carry strategies are vital.
+
+Mage Diversity Increasing
+
+Control Mages (Zhuge Liang, Mozi) and burst Mages (Daji, Lady Zhen) both viable.
+
+Poke Mages rising due to Sun Bin synergy.
+
+8.4 – Role Synergy & Counterplay
+
+Tank + Mage → Tanks like Zhang Fei + control mages = guaranteed AoE lockdown.
+
+Assassin + Support → Assassins thrive when supports provide peel or speed (Han Xin + Sun Bin).
+
+Marksman + Utility Support → Hypercarries need healing, shields, and peel (Luban + Donghuang).
+
+Double Frontline → Tank + bruiser warrior can dominate early fights.
+
+Draft Counterplay → If enemy drafts heavy dive, pick peel supports. If enemy drafts poke, pick engage comps.
+
+8.5 – Pro-Level Macro & Rotation Strategies
+Early Game (0–5 mins)
+
+Jungler: Controls tempo → rotate with Support to secure Tyrant.
+
+Support: Face-check bushes, protect Marksman, enable early skirmishes.
+
+Solo Laner (Warrior/Tank): Freeze lane → rotate mid for pressure.
+
+Mid Game (5–12 mins)
+
+Group for Tyrant & Shadow Slayer.
+
+Force fights around objectives, deny enemy jungle vision.
+
+Assassins look for picks → Marksmen scale safely.
+
+Late Game (12+ mins)
+
+Protect backline at all costs.
+
+Every fight is about Slayer/Economy lead.
+
+One death = game-losing at this stage.
+
+8.6 – Best Practices for Team Play
+
+Draft with Purpose: Don’t just pick comfort heroes—always think of synergy.
+
+Shotcalling Matters: Support or Jungler should lead macro calls.
+
+Adapt Builds: Buy anti-heal vs sustain, anti-armor vs tanks, defense vs assassins.
+
+Tempo Awareness: Know if your comp spikes early or late → play accordingly.
+
+Never Fight Without Ultimates: Especially Supports (Donghuang, Zhang Fei) or Mage nukes.
+
+8.7 – Practice Framework for Team Coordination
+
+Beginner Team Practice
+
+Focus on basic rotations (Support + Jungler synergy).
+
+Simple 5v5 scrims around Tyrant fights.
+
+Intermediate Team Practice
+
+Learn lane swap strategies (sending Marksman mid for safety).
+
+Focus on vision control drills (bushes, objectives).
+
+Pro-Level Team Practice
+
+Master composition-based scrims (dive vs poke, split-push vs teamfight).
+
+Perfect timing calls (when to engage/disengage).
+
+Review replays for macro errors (bad rotations, poor objective setups).
+
+8.8 – Conclusion of the Guidebook
+
+Honor of Kings is more than just a mechanical test—it is a game of macro, synergy, and strategy. Individually, every role matters:
+
+Tanks initiate and peel.
+
+Warriors dominate side lanes.
+
+Assassins control tempo.
+
+Mages dictate poke and burst.
+
+Marksmen are the late-game insurance.
+
+Supports glue everything together.
+
+But the true key to victory is understanding how these roles interact and how compositions shape the flow of the game.
+
+By mastering hero counters, role deep dives, best practices, and team synergy, players can elevate from beginners to pro-level performance. Whether you are climbing solo queue or coordinating in professional play, the principles in this guidebook will give you the framework to read drafts, command rotations, and execute winning strategies.
+
+Honor of Kings rewards not only fast fingers, but also sharp minds. Master both, and you master the battlefield.
