@@ -1,5 +1,4 @@
 import os
-import google.generativeai as genai
 from langchain_google_genai import ChatGoogleGenerativeAI
 from langchain_chroma import Chroma
 from langchain_huggingface import HuggingFaceEmbeddings  # Updated import
@@ -16,7 +15,6 @@ api_key = os.getenv("GOOGLE_API_KEY")
 # Gemini API setup
 # ---------------------------
 os.environ["GOOGLE_API_KEY"] = api_key
-genai.configure(api_key=os.environ["GOOGLE_API_KEY"])
 
 # HuggingFace local embeddings (updated to use new package)
 embeddings = HuggingFaceEmbeddings(model_name="sentence-transformers/all-MiniLM-L6-v2")
